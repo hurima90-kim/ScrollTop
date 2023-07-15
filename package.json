@@ -2,18 +2,18 @@
   "name": "scrolltop",
   "version": "1.0.0",
   "description": "",
-  
-  "main": "libs/index.js",
-  "files": ["lib"],
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.4.2",
-    "typescript": "^5.1.6"
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9"
   }
 }
