@@ -7,8 +7,8 @@
 설치하는 방법은 아래와 같습니다.
 
 ```
-> npm install scrollFunc
-> yarn add scrollFunc
+> npm install scroll-top-func
+> yarn add scroll-top-func
 ```
 
 ### Usage
