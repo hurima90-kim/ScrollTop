@@ -3,7 +3,7 @@ window.onload = function () {
 };
 
 module.export = function scrollFunc() {
-  const button = document.querySelector('button');
+  const button = document.getElementsByClassName('scroll-button');
 
   const showScrollBtn = function () {
     window.scrollY > window.innerHeight
