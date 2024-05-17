@@ -1,6 +1,6 @@
 {
   "name": "scroll-top-func",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "scroll-top function module using javascript",
   "main": "index.js",
@@ -10,7 +10,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["javascript", "scrolltop", "scrolltotop"],
+  "keywords": [
+    "javascript",
+    "scrolltop",
+    "scrolltotop"
+  ],
   "author": {
     "name": "hurima90-kim",
     "email": "hurima90@gmail.com",
@@ -19,8 +23,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hurima90-kim/ScrollTop"
-},
+  },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hurima90-kim/ScrollTop/issues",
+    "email": "hurima90@gmail.com"
+  },
   "devDependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9"
